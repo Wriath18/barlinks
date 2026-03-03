@@ -71,7 +71,9 @@ private func logoURL(for urlString: String) -> URL? {
 ## Screenshots
 
 <!-- Add your screenshots here -->
-
+![Main Menu](images/1.png)
+![Add Link](images/2.png)
+![Add Link](images/3.png)
 ## Data Storage
 
 barlinks stores all data locally in `~/.barlinks/data.json`. Your data never leaves your device.
